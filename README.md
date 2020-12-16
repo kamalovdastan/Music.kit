@@ -1,6 +1,7 @@
 # Music.kit
 
 I use HTML, CSS, Javascript and took photo from Google.com
- https://kamalovdastan.github.io/https-kamalovdastan.github.io-Music.kit-./
+//URL:
+https://kamalovdastan.github.io/https-kamalovdastan.github.io-Music.kit-./
 
-##Photo
+##Photo:
